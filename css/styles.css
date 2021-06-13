@@ -24,6 +24,19 @@ h3 {
   color: #7b113a;
 }
 
+h1:hover {
+  color: black;
+}
+
+h3:hover {
+  color: black;
+}
+
+h2:hover {
+  color: black;
+}
+
+
 /**************************CLASS SELECTORS********************/
 
 .theonewhichisred {
